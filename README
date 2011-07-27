@@ -1,0 +1,5 @@
+Dreamhost is a hosting company in Los Angelas.  They released a small API for users of their private servers to interact with their accounts.
+
+This API is described at [http://wiki.dreamhost.com/Api](http://wiki.dreamhost.com/Api)
+
+This class provides an easy way to quickly add Dreamhost API functionality to your existing dashboard or management console.
